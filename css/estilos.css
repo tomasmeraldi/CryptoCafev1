@@ -358,6 +358,19 @@ button.hover {
     transform: translate(-50%, -50%);
     text-shadow: 0 0 8px rgba(27, 27, 27, 0.8); }
 
+.mediosdepago {
+ margin: 50px;
+ border-radius: 10px;
+}
+
+h2 {
+  margin: 10px;
+}
+
+h3 {
+  margin: 15px;
+}
+
 .SeParte {
   font-family: fantasy;
   font-size: 40px;
